@@ -6,7 +6,7 @@ A simple and visually appealing real-time digital clock built using **HTML**, **
 👉 [View Clock](https://mahak-shar.github.io/JavaScript-Clock/)
 
 ## 📸 Preview
-![Clock Preview](clock.jpg)
+![Clock Preview](preview.png)
 
 ## 🛠️ Features
 - Displays the **current time** in `HH:MM:SS` format
