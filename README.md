@@ -17,7 +17,7 @@ A simple and visually appealing real-time digital clock built using **HTML**, **
 ## 💻 Tech Stack
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ## 📁 Folder Structure
 📦 JavaScript-Clock
